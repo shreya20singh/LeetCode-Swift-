@@ -30,14 +30,21 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>11</integer>
+			<integer>28</integer>
 		</dict>
 		<key>11. Container With Most Water (Playground) 2.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>12</integer>
+			<integer>29</integer>
+		</dict>
+		<key>11. Container With Most Water (Playground) 3.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>30</integer>
 		</dict>
 		<key>11. Container With Most Water (Playground).xcscheme</key>
 		<dict>
@@ -51,14 +58,21 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>8</integer>
+			<integer>25</integer>
 		</dict>
 		<key>125. Valid Palindrome (Playground) 2.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>9</integer>
+			<integer>26</integer>
+		</dict>
+		<key>125. Valid Palindrome (Playground) 3.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>27</integer>
 		</dict>
 		<key>125. Valid Palindrome (Playground).xcscheme</key>
 		<dict>
@@ -72,14 +86,21 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>5</integer>
+			<integer>34</integer>
 		</dict>
 		<key>128. Longest Consecutive Sequence (Playground) 2.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>6</integer>
+			<integer>35</integer>
+		</dict>
+		<key>128. Longest Consecutive Sequence (Playground) 3.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>36</integer>
 		</dict>
 		<key>128. Longest Consecutive Sequence (Playground).xcscheme</key>
 		<dict>
@@ -88,19 +109,68 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
+		<key>153. Find Minimum in Rotated Sorted Array (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>14</integer>
+		</dict>
+		<key>153. Find Minimum in Rotated Sorted Array (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>15</integer>
+		</dict>
+		<key>153. Find Minimum in Rotated Sorted Array (Playground) 3.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>19</integer>
+		</dict>
+		<key>153. Find Minimum in Rotated Sorted Array (Playground) 4.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>20</integer>
+		</dict>
+		<key>153. Find Minimum in Rotated Sorted Array (Playground) 5.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>21</integer>
+		</dict>
+		<key>153. Find Minimum in Rotated Sorted Array (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
 		<key>238. Product of Array Except Self (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>8</integer>
+			<integer>37</integer>
 		</dict>
 		<key>238. Product of Array Except Self (Playground) 2.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>9</integer>
+			<integer>38</integer>
+		</dict>
+		<key>238. Product of Array Except Self (Playground) 3.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>39</integer>
 		</dict>
 		<key>238. Product of Array Except Self (Playground).xcscheme</key>
 		<dict>
@@ -114,14 +184,21 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>2</integer>
+			<integer>40</integer>
 		</dict>
 		<key>347. Top K Frequent Elements (Playground) 2.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>3</integer>
+			<integer>41</integer>
+		</dict>
+		<key>347. Top K Frequent Elements (Playground) 3.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>42</integer>
 		</dict>
 		<key>347. Top K Frequent Elements (Playground).xcscheme</key>
 		<dict>
@@ -135,14 +212,21 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>11</integer>
+			<integer>31</integer>
 		</dict>
 		<key>36. Valid Sudoku (Playground) 2.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>12</integer>
+			<integer>32</integer>
+		</dict>
+		<key>36. Valid Sudoku (Playground) 3.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>33</integer>
 		</dict>
 		<key>36. Valid Sudoku (Playground).xcscheme</key>
 		<dict>
@@ -165,6 +249,27 @@
 			<key>orderHint</key>
 			<integer>9</integer>
 		</dict>
+		<key>74. Search a 2D Matrix (Playground) 3.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>16</integer>
+		</dict>
+		<key>74. Search a 2D Matrix (Playground) 4.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>17</integer>
+		</dict>
+		<key>74. Search a 2D Matrix (Playground) 5.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>18</integer>
+		</dict>
 		<key>74. Search a 2D Matrix (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -185,6 +290,27 @@
 			<false/>
 			<key>orderHint</key>
 			<integer>12</integer>
+		</dict>
+		<key>875. Koko Eating Bananas (Playground) 3.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>22</integer>
+		</dict>
+		<key>875. Koko Eating Bananas (Playground) 4.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>23</integer>
+		</dict>
+		<key>875. Koko Eating Bananas (Playground) 5.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>24</integer>
 		</dict>
 		<key>875. Koko Eating Bananas (Playground).xcscheme</key>
 		<dict>
