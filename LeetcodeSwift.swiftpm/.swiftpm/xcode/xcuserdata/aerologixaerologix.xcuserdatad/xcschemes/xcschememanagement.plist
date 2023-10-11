@@ -270,6 +270,27 @@
 			<key>orderHint</key>
 			<integer>8</integer>
 		</dict>
+		<key>4. Median of Two Sorted Arrays - Hard (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>24</integer>
+		</dict>
+		<key>4. Median of Two Sorted Arrays - Hard (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>25</integer>
+		</dict>
+		<key>4. Median of Two Sorted Arrays - Hard (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>23</integer>
+		</dict>
 		<key>74. Search a 2D Matrix (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -413,21 +434,21 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>46</integer>
+			<integer>20</integer>
 		</dict>
 		<key>MyPlayground (Playground) 4.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>47</integer>
+			<integer>21</integer>
 		</dict>
 		<key>MyPlayground (Playground) 5.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>48</integer>
+			<integer>22</integer>
 		</dict>
 		<key>MyPlayground (Playground) 6.xcscheme</key>
 		<dict>
